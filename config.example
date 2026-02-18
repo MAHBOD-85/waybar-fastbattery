@@ -1,0 +1,13 @@
+    "custom/fastbattery": {
+        "exec": "~/.config/waybar/fastbattery.sh",
+        "format": "{icon} {percentage}%",
+        "return-type": "json",
+            "format-icons": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+        "interval": 30
+    }
